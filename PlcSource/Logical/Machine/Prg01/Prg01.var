@@ -1,0 +1,5 @@
+VAR
+    stAlarmList : tstAlarmList;
+    stModuleData : tstCPrg01Data;
+    sText : STRING[80];
+END_VAR

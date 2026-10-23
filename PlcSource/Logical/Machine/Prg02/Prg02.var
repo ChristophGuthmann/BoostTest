@@ -1,0 +1,5 @@
+VAR
+    stAlarmList : tstAlarmList;
+    stModuleData : tstCPrg02Data;
+    uiVariable : UINT;
+END_VAR

@@ -1,0 +1,4 @@
+VAR
+    stAlarmList : tstAlarmList;
+    stModuleData : tstC_TEMPL_Data;
+END_VAR

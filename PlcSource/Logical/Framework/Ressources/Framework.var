@@ -1,0 +1,11 @@
+VAR
+    _ii : INT;
+    sObjName : STRING[10];
+    dstAlarm : REFERENCE TO tstCFrw_AlarmType;
+END_VAR
+(*Sub-States*)
+VAR
+    stInitialisingExt : tstInitialisingExt;
+    stRunExt : tstRunExt;
+    New_Variable : USINT;
+END_VAR

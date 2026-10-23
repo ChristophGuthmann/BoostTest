@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">Framework.st</Object>
+    <Object Type="File" Private="true">Framework.var</Object>
+    <Object Type="Library" Language="IEC">CFrw</Object>
+    <Object Type="Package">Ressource_01</Object>
+    <Object Type="Package">Ressource_02</Object>
+  </Objects>
+</Package>

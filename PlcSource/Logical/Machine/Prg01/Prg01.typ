@@ -30,4 +30,8 @@ TYPE
         enRunExt_, (*insert machine specific states here*)
         enRunExt_Done
         );
+    tstDebugStruct :     STRUCT 
+        bFlag : BOOL;
+        diValue : DINT;
+    END_STRUCT;
 END_TYPE

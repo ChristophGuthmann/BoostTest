@@ -2,4 +2,7 @@ VAR
     stAlarmList : tstAlarmList;
     stModuleData : tstCPrg01Data;
     sText : STRING[80];
+    pDebugArray : UDINT;
+    astDebugArray : ARRAY[0..1] OF tstDebugStruct;
+    dastDebugArray : REFERENCE TO ARRAY[0..1] OF tstDebugStruct;
 END_VAR

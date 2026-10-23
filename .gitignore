@@ -1,0 +1,61 @@
+# B&R Automation Studio - gitignore
+
+# Temporary and build files
+Temp/
+Binaries/
+Diagnosis/
+
+# User-specific settings
+*.set
+*.isopen
+
+# Build outputs
+*.br
+*.br.bak
+
+# Backup files
+*.bak
+*~
+*.old
+
+# Archive files (if binaries exported)
+*.zip
+*.tar
+*.tar.gz
+
+# Binary libraries (auto-generated)
+**/SG4/*.br
+
+# Log files
+*.log
+*.txt
+AR*.txt
+
+# Hardware lock files
+*.hwl
+
+# PLC runtime files
+*.per
+*.iom
+*.vvm
+
+# mappView build artifacts
+**/.mappView/build/
+**/.mappView/data/
+**/.mappView/*.json
+**/.mappView/*.scss
+
+# Visual Components
+*.vcxproj.user
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Package manager
+node_modules/

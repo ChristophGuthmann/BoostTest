@@ -6,6 +6,7 @@
     <Object Type="File" Private="true" Reference="true">\Logical\Framework\Ressources\Framework.var</Object>
     <Object Type="File" Private="true" Reference="true">\Logical\Framework\Ressources\Ressource_01\Ressource_01.var</Object>
     <Object Type="File" Reference="true">\Logical\Framework\Ressources\Ressource_01\Ressource_01.st</Object>
+    <Object Type="File">Action.st</Object>
     <Object Type="File" Description="Cyclic code">Cyclic.st</Object>
     <Object Type="File" Description="Init code">Init.st</Object>
     <Object Type="File" Description="Exit code">Exit.st</Object>
